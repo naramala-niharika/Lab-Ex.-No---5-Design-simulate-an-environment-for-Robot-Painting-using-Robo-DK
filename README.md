@@ -271,7 +271,10 @@ LIN {X 1354.510,Y -793.956,Z 621.243,A -180.000,B 16.211,C 180.000,E1 0.00000}
 END
 ```
  ### Results of simulation(OUTPUT):
- ![output](./painting%20lab%20exam.PNG)
+
+![painting lab exam](https://user-images.githubusercontent.com/94165377/204090039-35ccef87-6892-4963-9e1a-7d6de65414c1.png)
+
+
 
  ### Result:
  
