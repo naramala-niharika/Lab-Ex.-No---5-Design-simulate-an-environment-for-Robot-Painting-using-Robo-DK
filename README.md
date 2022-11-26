@@ -270,10 +270,11 @@ LIN {X 1254.300,Y -793.956,Z 621.299,A -180.000,B 16.211,C 180.000,E1 0.00000}
 LIN {X 1354.510,Y -793.956,Z 621.243,A -180.000,B 16.211,C 180.000,E1 0.00000}
 END
 ```
- ## Results of simulation(OUTPUT):
+ ### Results of simulation(OUTPUT):
  ![output](./painting%20lab%20exam.PNG)
 
- ## Result:
-    To simulate the painting environment for a serial manipluator is done successfully using robo DK software.
+ ### Result:
+ 
+ To simulate the painting environment for a serial manipluator is done successfully using robo DK software.
        
  
